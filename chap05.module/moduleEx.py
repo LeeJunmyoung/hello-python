@@ -18,3 +18,6 @@ print(a)
 
 random.shuffle(a)
 print(a)
+
+import externalModule
+externalModule.println('test')
