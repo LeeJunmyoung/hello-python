@@ -21,3 +21,10 @@ print(a)
 
 import externalModule
 externalModule.println('test')
+
+print()
+print("######################")
+print()
+
+import os
+print(os.name)
