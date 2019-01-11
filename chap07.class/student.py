@@ -41,6 +41,6 @@ print(a==80)
 Student.getCount()
 print(Student.__count)
 
-## __num  =  private
-## _num   =  protected
-## num    =  public 
+## __num   =   private
+## _num    =   protected
+## num     =   public 
